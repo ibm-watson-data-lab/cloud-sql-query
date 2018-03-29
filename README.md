@@ -6,4 +6,4 @@ This notebook accompanies the article "Analyzing Data with IBM Cloud SQL Query"
 
 ## License
 
-Apache 2.0
+[Apache 2.0](https://github.com/ibm-watson-data-lab/cloud-sql-query/blob/master/LICENSE)
